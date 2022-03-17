@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Connor</h1>
 <h3 align="center">A passionate developer from Canada</h3>
 
-- 🔭 I’m currently working on [Pixel-game](https://github.com/SeanConnorz/pixel-game)
+- 🔭 I’m currently working on [pixel-world](https://github.com/SeanConnorz/pixel-world)
 
 - 🌱 I’m currently learning **Solidity, Rust, and other blockchain tech.**
 
